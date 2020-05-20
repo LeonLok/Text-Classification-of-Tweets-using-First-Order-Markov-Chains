@@ -1,1 +1,2 @@
-# Text-Classification-of-Tweets-using-Markov-Chains
+# My Master's Thesis
+This repository contains all of the code, figures, and data used for my master's thesis and is organised by chapter.
